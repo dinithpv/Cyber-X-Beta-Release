@@ -17,7 +17,7 @@ global.APIKeys = {
 
 //AUTO FUNCTIONS ( 📵 DONT EDIT 📵 ) ITS FOR NEXT UPDATE
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autobio = false  // auto bio system checking on Developing Leval
@@ -36,15 +36,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94761036291'] //ur owner number
+global.vcardowner = ['94705261679'] //ur owner number
 global.ownername = "😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ " //ur owner name
 global.ytname = "YT: Dinu officialz" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, rathnapura, ayagama" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94761036291']
-global.ownertag = '0761036291' //ur tag number
+global.owner = ['94705261679']
+global.ownertag = '0705261679' //ur tag number
 global.botnumber = '94705261679' //Add your Bot Number For Log
 global.botname = '😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ ' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
