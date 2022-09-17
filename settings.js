@@ -43,9 +43,9 @@ global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, rathnapura, ayagama" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94705261679']
-global.ownertag = '0705261679' //ur tag number
-global.botnumber = '94705261679' //Add your Bot Number For Log
+global.owner = ['94761036291']
+global.ownertag = '0761036291' //ur tag number
+global.botnumber = '94761036291' //Add your Bot Number For Log
 global.botname = '😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ ' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
@@ -58,8 +58,8 @@ global.author = "Devil_Dinu" //ur sticker watermark author
 global.footer = "® 😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ "
 global.aliveimg ="https://i.ibb.co/vHVNN1L/In-Shot-20220612-191524937.jpg"
 global.allmenuimg ="https://i.ibb.co/vHVNN1L/In-Shot-20220612-191524937.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.welcomeimg= "https://i.ibb.co/vHVNN1L/In-Shot-20220612-191524937.jpg"
+global.gbyeimg = "https://i.ibb.co/vHVNN1L/In-Shot-20220612-191524937.jpg"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94705261679'] //ADD YOU NUMBER
+global.premium = ['94761036291'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
